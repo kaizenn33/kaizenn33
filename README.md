@@ -3,4 +3,4 @@ My full name would be long so you can just call me Lu ⛄. Lu Min Paing is just 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizenn33)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaizenn33)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaizenn33&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
