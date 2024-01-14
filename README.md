@@ -12,7 +12,7 @@ My full name would be long so you can just call me Lu ⛄. Lu Min Paing is just 
 ![](https://komarev.com/ghpvc/?username=kaizenn33&color=blue)
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,7 +29,11 @@ My full name would be long so you can just call me Lu ⛄. Lu Min Paing is just 
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
+###
 
 ###
 
