@@ -9,7 +9,7 @@ My full name would be long so you can just call me Lu ⛄. Lu Min Paing is just 
 - ⚡ Fun fact: I am an INTJ
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=kaizenn33&color=blue)
 
 ###
 <h3 align="left">Languages and Tools:</h3>
