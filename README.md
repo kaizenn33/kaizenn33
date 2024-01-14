@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Lu Min Paing.
 #### I am a fullstack web developer
-I am from Myanmar:myanmar:. I am currently learning React and TypeScript for the expansion my skillset for web developing . I am proficient in Laravel and Bootstrap, in terms, I am quite confident in backend developing. I am currently a student from NCC Education UK and have a certificate from freecodecamp for JavaScript Algorithms and Data Structure.
+Hello, everyone. I am Lu Min Paing from Myanmar. I am currently a Level 5 Diploma student from NCC Education. I started learning web developement deeply around mid-year of 2023 and I started with JavaScript. But I found my passion on backend development and now I am trying to progress my Laravel knowledge accompanying various front-end frameworks like React and Vue. I am a bit into Typescript either. It is quite efficient for JavaScript environment and it is amazingly developing.
+I am open for ANY type of coding dicussion and I linked my social media down below!
 
 ![](https://komarev.com/ghpvc/?username=kaizenn33&color=blue)
 
