@@ -1,13 +1,6 @@
-### Hi there 👋, my name is Lu.
+### Hi there 👋, my name is Lu Min Paing.
 #### I am a fullstack web developer
-My full name would be long so you can just call me Lu ⛄. Lu Min Paing is just a Burmese name for my identity :myanmar:. I am currently learning React and TypeScript for the expansion my skillset for web developing 💻. I am proficient in Laravel and Bootstrap, in terms, I am quite confident in backend developing :hammer_and_wrench:. I am currently a student from NCC Education UK and have a certificate from freecodecamp for JavaScript Algorithms and Data Structure :desktop_computer:
-
-- 🔭 I’m currently working on Laravel Blog. 
-- 🌱 I’m currently learning React, Tailwind and TypeScript.
-- 💬 Ask me about Laravel, JavaScript and PHP.
-- 📫 How to reach me: luminpaing.dev@gmail.com 
-- ⚡ Fun fact: I am an INTJ
-
+I am from Myanmar:myanmar:. I am currently learning React and TypeScript for the expansion my skillset for web developing . I am proficient in Laravel and Bootstrap, in terms, I am quite confident in backend developing. I am currently a student from NCC Education UK and have a certificate from freecodecamp for JavaScript Algorithms and Data Structure.
 
 ![](https://komarev.com/ghpvc/?username=kaizenn33&color=blue)
 
