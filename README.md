@@ -1,6 +1,5 @@
-<div align="center">
+
 <img alt="Coding Gifs" height=250 width=350 src="https://assets.materialup.com/uploads/4d9cbca5-a4b6-4d3b-b1c2-9a38db38ac78/preview.gif" />
-</div>
 
 <h2 align="center">Hi there 👋, how is it going today?</h2>
 <div>
