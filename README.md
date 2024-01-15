@@ -1,8 +1,8 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h2 align="center">Hi there 👋, how is it going today?<h2>
-<div><p>
+<div>
   Hello. I am Lu Min Paing from Myanmar. I am currently a Level 5 Diploma student from NCC Education. I started learning web developement deeply around mid-year of 2023 and I started with JavaScript. But I found my passion on backend development and now I am trying to progress my Laravel knowledge accompanying various front-end frameworks like React and Vue. I am a bit into Typescript either. It is quite efficient for JavaScript environment and it is amazingly developing.
-</p></div>
+</div>
 
 <p align="center">I am open for ANY type of coding dicussion and I linked my social media down below!</p>
 
@@ -34,9 +34,9 @@
 
 ###
 
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizenn33)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 You can reach me on:
