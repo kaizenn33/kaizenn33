@@ -4,7 +4,7 @@
   Hello. I am Lu Min Paing from Myanmar. I am currently a Level 5 Diploma student from NCC Education. I started learning web developement deeply around mid-year of 2023 and I started with JavaScript. But I found my passion on backend development and now I am trying to progress my Laravel knowledge accompanying various front-end frameworks like React and Vue. I am a bit into Typescript either. It is quite efficient for JavaScript environment and it is amazingly developing.
 </div>
 
-<p align="center">I am open for ANY type of coding dicussion and I linked my social media down below!</p>
+<p align="center">I am open for <span>ANY TYPE</span> of coding dicussion and I linked my social media down below!</p>
 
 ![](https://komarev.com/ghpvc/?username=kaizenn33&color=blue)
 
